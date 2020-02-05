@@ -1,1 +1,2 @@
 # cli
+CLI tool template
